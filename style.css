@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+html, body {
+    margin:0;
+    padding:0;
+    height:100%;
+    font-family: 'Oxygen', sans-serif;
+} 
+.home-page {
+    background:url("http://www.realworldholidays.co.uk/blog/wp-content/uploads/2016/05/colca-llama.jpg") no-repeat center center fixed;
+    text-align:center;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Oxygen', sans-serif;
+  height:100%;
+}
+.home-header {
+    color:white;
+    font-size:70px;
+    padding-top:0%;
+}
+.home-tagline {
+    color:white;
+    font-size:35px;
+
+}
+.home-h1 {
+    margin:0;
+}
+button {
+    font-family: 'Oxygen', sans-serif;
+    color:white;
+    border:2px solid lightblue;
+    background:transparent;
+    padding:10px 25px 10px 25px;
+    font-size:15px;
+}
+button:hover {
+    color: white;
+    border:2px solid black;
+    background: lightblue;
+    padding:10px 25px 10px 25px;
+    font-size:15px;
+}
+a:link {
+    text-decoration:none;
+    font-weight:bold;
+    color: white;
+}
+a:visited { 
+    color: white;
+}
+.page-2 {
+    background:url("https://angelsandcelestials.files.wordpress.com/2016/11/llama_lying_down.jpg") no-repeat center center fixed;
+    text-align:center;
+        -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Oxygen', sans-serif;
+    height:100%;
+}
+.home-header2 {
+    color:SKYBLUE;
+    font-size:70px;
+    padding:0;
+    margin:0;
+}
+.home-h2 {
+    margin:0;
+}
+.home-tagline2 {
+    color:white;
+    font-size:35px;
+}
+.gif {
+    padding-top:5%;
+}
+img {
+    float:none;
+}
